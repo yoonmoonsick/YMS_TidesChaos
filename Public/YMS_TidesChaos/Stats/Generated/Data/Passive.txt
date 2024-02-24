@@ -1,0 +1,5 @@
+new entry "YMS_Passive_TidesOfChaosAddition"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "PriorityOrder" "2"
+data "Boosts" "ActionResource(TidesOfChaos,1,0);IF(ConditionResult(context.Source.GetClassLevel('Sorcerer') >= 2)):ActionResource(TidesOfChaos,1,0);IF(ConditionResult(context.Source.GetClassLevel('Sorcerer') >= 5)):ActionResource(TidesOfChaos,1,0);IF(ConditionResult(context.Source.GetClassLevel('Sorcerer') >= 9)):ActionResource(TidesOfChaos,1,0);IF(ConditionResult(context.Source.GetClassLevel('Sorcerer') >= 13)):ActionResource(TidesOfChaos,1,0);IF(ConditionResult(context.Source.GetClassLevel('Sorcerer') >= 17)):ActionResource(TidesOfChaos,1,0)"

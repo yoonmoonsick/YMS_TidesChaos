@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="4" build="600"/>
+    <region id="ActionResourceDefinitions">
+        <node id="root">
+            <children>
+                <node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" handle="hd4234b6fe7d24dd68f4e46cca053b91c4e15" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h907d7df1gad07g417agaa01gee71c256fa1c" version="1"/>
+                    <attribute id="MaxValue" type="uint32" value="0"/>
+                    <attribute id="Name" type="FixedString" value="TidesOfChaos"/>
+                    <attribute id="ReplenishType" type="FixedString" value="ShortRest"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
+                    <attribute id="UUID" type="guid" value="733e3365-082c-4a0a-8df9-98273c23186e"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

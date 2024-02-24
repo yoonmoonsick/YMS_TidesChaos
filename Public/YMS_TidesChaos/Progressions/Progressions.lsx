@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="328" />
+    <region id="Progressions">
+        <node id="root">
+            <children>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(TidesOfChaos,0,0)"/>
+                    <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="Name" type="LSString" value="WildMagic"/>
+                    <attribute id="PassivesAdded" type="LSString" value="TidesOfChaos;TidesOfChaos_Unlock;WildMagic;YMS_Passive_TidesOfChaosAddition"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="dbf5281b-5a6e-486d-92db-ff67a0a3842b"/>
+                    <attribute id="UUID" type="guid" value="9ab30b9c-0117-414f-8c88-c6a19c8c6d0f"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
